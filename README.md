@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foglio1024&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foglio1024&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 I'm a software developer mostly focused on UI design in **.NET** desktop applications. 
 
